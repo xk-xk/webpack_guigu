@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],[,function(n,o,u){"use strict";function c(...n){return n.reduce((n,o)=>n+o,0)}u.r(o),u.d(o,"sum",(function(){return c})),console.log(c(1,2,3,4))}]]);

@@ -15,8 +15,7 @@ module.exports = {
       loader: 'babel-loader',
       options: {
         presets: [
-          [
-            '@babel/preset-env',
+          ['@babel/preset-env',
             {
               // 按需加载
               useBuiltIns: 'usage',
